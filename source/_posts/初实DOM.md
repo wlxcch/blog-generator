@@ -72,3 +72,4 @@ message 是要打印的字符串
 
 window.scrollTo() 把内容滚动到指定的坐标。
 Javascript操作DOM常用API总结
+原文地址链接：https://zhuanlan.zhihu.com/p/52704918
